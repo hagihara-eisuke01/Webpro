@@ -1,0 +1,16 @@
+127.0.0.1 - - [07/Nov/2019:00:08:05 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:00:08:07 +0900] "GET /Webproj3/ HTTP/1.1" 200 711
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:00:11:19 +0900] "GET /Webproj3/ HTTP/1.1" 200 987
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:00:11:20 +0900] "POST /Webproj3/InquiryAction HTTP/1.1" 200 3523
+127.0.0.1 - - [07/Nov/2019:00:22:02 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:00:22:03 +0900] "GET /Webproj3/ HTTP/1.1" 200 1004
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:00:22:05 +0900] "POST /Webproj3/InquiryAction.action HTTP/1.1" 200 926
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:00:22:18 +0900] "POST /Webproj3/InquiryCompleteAction.action HTTP/1.1" 200 349
+127.0.0.1 - - [07/Nov/2019:00:45:10 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:00:45:14 +0900] "GET /Webproj3/ HTTP/1.1" 200 2139
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:00:45:21 +0900] "GET /Webproj3/TestAction.action?username=taro&password=123 HTTP/1.1" 200 205
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:00:45:40 +0900] "GET /Webproj3/ HTTP/1.1" 200 2139
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:00:45:47 +0900] "GET /Webproj3/TestAction.action?username=eisuke&password=0430 HTTP/1.1" 200 208
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:00:46:05 +0900] "POST /Webproj3/TestAction.action HTTP/1.1" 200 206
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:00:46:23 +0900] "POST /Webproj3/WelcomeAction.action HTTP/1.1" 200 868
+0:0:0:0:0:0:0:1 - - [07/Nov/2019:00:46:29 +0900] "POST /Webproj3/LoginAction.action HTTP/1.1" 200 150

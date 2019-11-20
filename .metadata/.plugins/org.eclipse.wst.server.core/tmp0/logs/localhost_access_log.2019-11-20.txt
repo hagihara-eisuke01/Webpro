@@ -1,0 +1,14 @@
+127.0.0.1 - - [20/Nov/2019:21:33:23 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:21:33:25 +0900] "GET /Webproj5/ HTTP/1.1" 200 2363
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:21:33:36 +0900] "GET /Webproj5/TestAction.action;jsessionid=3CFF6CB2D90ECECFF1E834712E250EE3?username=eizi&password=0430 HTTP/1.1" 200 432
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:21:33:36 +0900] "GET /Webproj5/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:21:33:49 +0900] "POST /Webproj5/TestAction.action;jsessionid=3CFF6CB2D90ECECFF1E834712E250EE3 HTTP/1.1" 200 433
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:21:34:01 +0900] "POST /Webproj5/WelcomeAction.action;jsessionid=3CFF6CB2D90ECECFF1E834712E250EE3 HTTP/1.1" 200 870
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:21:34:07 +0900] "POST /Webproj5/LoginAction.action HTTP/1.1" 200 359
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:21:34:17 +0900] "POST /Webproj5/LoginAction.action HTTP/1.1" 200 479
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:21:34:25 +0900] "POST /Webproj5/LoginAction.action HTTP/1.1" 200 361
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:21:35:10 +0900] "GET /Webproj5/ HTTP/1.1" 200 2143
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:21:36:35 +0900] "GET /Webproj5/TestAction.action?username=eizi3&password=1111 HTTP/1.1" 200 433
+127.0.0.1 - - [20/Nov/2019:21:52:46 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:21:52:48 +0900] "GET /Webproj5/ HTTP/1.1" 200 2363
+0:0:0:0:0:0:0:1 - - [20/Nov/2019:21:52:52 +0900] "POST /Webproj5/HelloStrutsAction.action;jsessionid=302E7F8B84F257D43436DA2B654C6577 HTTP/1.1" 200 1221
